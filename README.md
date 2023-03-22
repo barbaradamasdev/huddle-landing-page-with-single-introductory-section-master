@@ -3,7 +3,7 @@
 ![Design preview for the Results summary component coding challenge](./design/desktop-preview.jpg)
 
 ## 🔗 Link
-- [Live Version](huddle-landing-page-with-single-introductory-section-master)
+- [Live Version](https://barbaradamasdev.github.io/huddle-landing-page-with-single-introductory-section-master/)
 
 ## 😄 Hello! 
 
